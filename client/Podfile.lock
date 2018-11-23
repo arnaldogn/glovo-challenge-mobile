@@ -1,0 +1,46 @@
+PODS:
+  - Bond (6.10.2):
+    - Differ (~> 1.3)
+    - ReactiveKit (~> 3.9)
+  - Differ (1.3.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - PKHUD (5.2.0)
+  - ReactiveKit (3.9.7)
+  - Swinject (2.4.1)
+
+DEPENDENCIES:
+  - Bond
+  - GoogleMaps
+  - GooglePlaces
+  - PKHUD (~> 5.0)
+  - ReactiveKit
+  - Swinject (~> 2.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bond
+    - Differ
+    - GoogleMaps
+    - GooglePlaces
+    - PKHUD
+    - ReactiveKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  Bond: 5c9d854fb14d3268496ccaf9b7ccd8428ec1609c
+  Differ: 9fcee7602542d7c6484ce05a0faec1c11258ed63
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  PKHUD: dd5357ac65f26115c35c4a68e9b328053326c5fe
+  ReactiveKit: 5f4c440715d671901c382ae6b42ed3337ce4699b
+  Swinject: f7f15a9672e99328c1f07f277091087917215700
+
+PODFILE CHECKSUM: fb6360775113d9b17330270c71168b0c484cc5a1
+
+COCOAPODS: 1.5.3
